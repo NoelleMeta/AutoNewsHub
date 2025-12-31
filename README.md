@@ -173,7 +173,6 @@ Project ini adalah open source dan tersedia untuk penggunaan pribadi dan komersi
 
 **Jovi Rizal**
 - Email: jovir463@gmail.com
-- Phone: +62 852-9529-0661
 - Role: Full Stack Developer & Automotive Enthusiast
 
 ## 🤝 Contributing
